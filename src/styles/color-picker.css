@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+html{
+    --ph-green: #14342B;
+    --rus-green: #60935D;
+    --tur-green: #BBDFC5;
+    --acid-green: #BAB700;
+}
+
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    overflow-x: hidden;
+
+    width: 100vw;
+    height: 100vh;
+    
+}

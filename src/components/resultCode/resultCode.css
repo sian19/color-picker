@@ -1,0 +1,4 @@
+main .center  > h3:last-child{
+    font-size: 25px;
+    color: var(--tur-green);
+}

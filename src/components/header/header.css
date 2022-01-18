@@ -1,0 +1,26 @@
+
+header{
+    width:  100%;
+    background-color: var(--rus-green);
+}
+
+header .center{
+    max-width:  1200px;
+    margin: 0 auto;
+    padding: 10px 2%;
+
+    display: flex;
+    justify-content:  space-between;
+
+    color: var(--tur-green);
+    font-size: 20px;
+}
+
+@media screen and (max-width: 350px){
+    header .center{
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+

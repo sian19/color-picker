@@ -1,0 +1,12 @@
+footer{
+    width: 100%;
+    background-color:  var(--rus-green);
+    color: var(--tur-green);
+    font-size: 14px;
+    text-align: center;
+}
+
+footer .center{
+    width: 100%;
+    padding: 10px 2%;
+}
