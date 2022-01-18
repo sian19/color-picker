@@ -17,3 +17,5 @@ ao usuário deslizar uma ou todas as thumbs, a cor de fundo da classe vai mudand
 para dessa forma a aplicação funcionar de forma correta.</li>
   <li>A aplicação também utiliza mediaqueries no seu estilo para deixar ela completamente responsiva.</li>
 </ul>
+<h3>Link do projeto:</h3>
+<a href="https://color-pickerr.herokuapp.com/">Clique aqui</a>
